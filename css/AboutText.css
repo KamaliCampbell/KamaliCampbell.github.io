@@ -1,0 +1,19 @@
+.container {
+  position: center;
+  margin: 0; width: auto;
+  background: #f2f2f2;
+  min-height: 200px;
+  text-align: center;
+  font-style: oblique;
+  font-size: 34px;
+  color: #000;
+  float: center;
+}
+
+.white-box {
+  width: 500px;
+  height: 15px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
