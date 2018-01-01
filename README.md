@@ -18,4 +18,8 @@ There's a lot of contraints that can occur like not having the right resources s
 
 ## Benefits 
 
-I have knowledge of HTML and CSS. 
+The benefits I have for this project is having the knowledge of HTML and CSS. This is very important because without HTML and CSS, I won't be able to build a website from scratch. Another benefit is the usage of Photoshop, knowing the basics of Photoshop can help with the designs of my website. Designs are very important because I have to base my actual website on them. Same goes for designs on paper, I have the basic tools like rulers and pencils to help me sketch my designs on paper. Another benefit for this project is getting feedback from other people. This will help me a lot because I will be able to improve my website from the feedback. 
+
+## Nature of Interactivity
+
+It's very important to add interactivity features on my website because that's what make a website good. So far, I've added a background video and a slideshow. I am also going to add a apply now button, this is very important ofr the because it's quick access for the user. Instead of going to another page, a box will pop on on the same page the user's on. This is a good interative feature for many users.  
