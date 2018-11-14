@@ -2,7 +2,7 @@
 
 ## Intended Audience 
 
-The Camp China Website is aimed at young adults aged 18-25 who wants to work and help the local community. The intended audience is mainly  travellers. You don't need a lot of experience to join Camp China, becuase you'll be learning new skills and at the same time you'll be making money. There's a lot of job roles to choose from. So any audience that have a specific skill like cooking or coaching can easily join. 
+The Camp China Website is aimed at young adults aged 18-25 who wants to work and help the local community. The intended audience is mainly  travellers. You don't need a lot of experience to join Camp China, because you will learn new skills and make money at the same time. There's a lot of job roles to choose from. So any audience that have a specific skill like cooking or coaching can easily join. 
 
 ## What are you doing? 
 
